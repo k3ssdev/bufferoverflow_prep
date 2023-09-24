@@ -13,5 +13,5 @@ Script files for the TryHackMe room [Buffer Overflow Preparation](https://tryhac
 [k3ssdev](https://tryhackme.com/p/k3ssdev)
 
 <div>
- <script src="https://tryhackme.com/badge/1277295"></script>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/k3ssdev.png" alt="TryHackMe">
 </div>
